@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Sadeem</h1>
 
 <h3 align="center">
-🛡️ Cybersecurity Student | 🌐 Networking | 💻 Programming
+Computer science Student | 🛡️ Cybersecurity | 💻 Programming
 </h3>
 
 ## 🧠 About Me
 
-I'm a Computer Science student interested in Cybersecurity, Networking, and Programming.
+I'm a Computer Science student interested in Cybersecurity and Programming.
 
 I enjoy learning through hands-on labs, solving technical problems, and building practical projects while continuously improving my skills.
 
@@ -15,11 +15,11 @@ I enjoy learning through hands-on labs, solving technical problems, and building
 <p align="center">
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+<img src="www.linkedin.com/in/sadeem-alzahrani-378821333">
 </a>
 
 <a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=google-chrome">
+<img src="https://sadeemza.github.io/sadeem-portfolio/index.html">
 </a>
 
 </p>
@@ -51,10 +51,8 @@ I enjoy learning through hands-on labs, solving technical problems, and building
 
 | Project | Description |
 |--------|-------------|
-| 🔐 Splunk Log Analysis | Security log analysis and incident investigation |
 | 🌐 Network Security Lab | Cisco Packet Tracer networking and security labs |
 | 🕵️ Wireshark Analysis | Network traffic and packet analysis |
-| 💻 Python Security Tools | Security-focused Python projects |
 | 🔓 OverTheWire | Natas security challenges |
 
 ## 📊 GitHub Stats
@@ -77,10 +75,8 @@ I enjoy learning through hands-on labs, solving technical problems, and building
 
 ## 🏆 Certifications & Achievements
 
-- 🎖️ Cisco Cybersecurity Badges
-- 🎓 Cybersecurity Training
+- 🎓 Cisco intro to Cybersecurity
 - 🔐 OverTheWire Natas
-- 🌐 Networking & Security Labs
 
 ---
 
