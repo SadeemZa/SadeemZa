@@ -4,10 +4,6 @@
 -->
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Sadeem Za — Computer Science & Cybersecurity" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/SadeemZa">
     <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%26%20Security%20Testing-12335B?style=for-the-badge&logo=shield&logoColor=7DD3FC" alt="Focus: Blue Team and Security Testing" />
   </a>
