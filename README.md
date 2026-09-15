@@ -90,9 +90,6 @@ I prefer to keep this section accurate and current. At the moment, I am document
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=SadeemZa&hide_border=true&background=0B1220&stroke=1E3A5F&ring=38BDF8&fire=60A5FA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=94A3B8" alt="Sadeem's GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadeemZa&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=E0F2FE&area=true&area_color=0C4A6E&hide_border=true" alt="Sadeem's contribution activity graph" width="100%" />
-</p>
 
 ---
 
