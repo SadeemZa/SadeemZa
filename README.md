@@ -10,8 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=SadeemZa&label=PROFILE%20VIEWS&color=155E9C&style=for-the-badge" alt="Profile views" />
 </p>
 
-<h1 align="center"> Are You A 0 Or a 1?
-  Hi, I'm Sadeem 👋</h1>
+<h1 align="center"> Are You A 0 Or a 1?Hi, I'm Sadeem </h1>
+<h2 align="center"> Hey There, I'm Sadeem </h2>
 
 <p align="center">
   Final-year Computer Science student at <b>Taif University</b><br />
